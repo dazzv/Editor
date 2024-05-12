@@ -1,4 +1,5 @@
 # Dazzv-Editor
+Demo: https://dazzv-editor.netlify.app/
 ## About
 #### Eng: This is a Basic Text Editor built using TypeScript, Vue 3 Composition API, and Nuxt 3. It's styled with Tailwind CSS. With this text editor, you can write posts with preserved formatting:
 #### Рус: Это базовый текстовый редактор, созданный с использованием TypeScript, Vue 3 Composition API и Nuxt 3 (). Он стилизован с помощью Tailwind CSS. С этим текстовым редактором вы можете писать посты с сохранением форматирования текста:
